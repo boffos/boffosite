@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Luke. I'm an individual 3D graphics programmer and game developer based in the UK. I primarily work with low level implementations of graphical renderers to bring my indie game projects to life.
+
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
