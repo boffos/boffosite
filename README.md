@@ -1,1 +1,1 @@
-Both the code for this website and hemangsk's amazing [DevJournal](https://github.com/hemangsk/DevJournal) theme are licensed under the [MIT License](https://mit-license.org).
+Both the code for this website and hemangsk's amazing <a href="https://github.com/hemangsk/DevJournal" target="_blank">DevJournal</a>. theme are licensed under the <a href="https://mit-license.org" target="_blank">MIT License</a>.
